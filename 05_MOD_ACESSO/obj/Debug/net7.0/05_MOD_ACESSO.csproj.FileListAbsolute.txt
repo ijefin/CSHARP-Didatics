@@ -1,0 +1,15 @@
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\05_MOD_ACESSO.csproj.AssemblyReference.cache
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\05_MOD_ACESSO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\05_MOD_ACESSO.AssemblyInfoInputs.cache
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\05_MOD_ACESSO.AssemblyInfo.cs
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\05_MOD_ACESSO.csproj.CoreCompileInputs.cache
+F:\Csharp\05_MOD_ACESSO\bin\Debug\net7.0\05_MOD_ACESSO.exe
+F:\Csharp\05_MOD_ACESSO\bin\Debug\net7.0\05_MOD_ACESSO.deps.json
+F:\Csharp\05_MOD_ACESSO\bin\Debug\net7.0\05_MOD_ACESSO.runtimeconfig.json
+F:\Csharp\05_MOD_ACESSO\bin\Debug\net7.0\05_MOD_ACESSO.dll
+F:\Csharp\05_MOD_ACESSO\bin\Debug\net7.0\05_MOD_ACESSO.pdb
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\05_MOD_ACESSO.dll
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\refint\05_MOD_ACESSO.dll
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\05_MOD_ACESSO.pdb
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\05_MOD_ACESSO.genruntimeconfig.cache
+F:\Csharp\05_MOD_ACESSO\obj\Debug\net7.0\ref\05_MOD_ACESSO.dll
