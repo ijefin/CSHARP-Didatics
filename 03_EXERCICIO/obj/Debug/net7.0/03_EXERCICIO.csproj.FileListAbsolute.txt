@@ -1,0 +1,15 @@
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\03_EXERCICIO.csproj.AssemblyReference.cache
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\03_EXERCICIO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\03_EXERCICIO.AssemblyInfoInputs.cache
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\03_EXERCICIO.AssemblyInfo.cs
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\03_EXERCICIO.csproj.CoreCompileInputs.cache
+F:\Csharp\03_EXERCICIO\bin\Debug\net7.0\03_EXERCICIO.exe
+F:\Csharp\03_EXERCICIO\bin\Debug\net7.0\03_EXERCICIO.deps.json
+F:\Csharp\03_EXERCICIO\bin\Debug\net7.0\03_EXERCICIO.runtimeconfig.json
+F:\Csharp\03_EXERCICIO\bin\Debug\net7.0\03_EXERCICIO.dll
+F:\Csharp\03_EXERCICIO\bin\Debug\net7.0\03_EXERCICIO.pdb
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\03_EXERCICIO.dll
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\refint\03_EXERCICIO.dll
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\03_EXERCICIO.pdb
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\03_EXERCICIO.genruntimeconfig.cache
+F:\Csharp\03_EXERCICIO\obj\Debug\net7.0\ref\03_EXERCICIO.dll

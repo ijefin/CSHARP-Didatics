@@ -1,0 +1,15 @@
+F:\Csharp\02_METODOS\obj\Debug\net7.0\02_METODOS.csproj.AssemblyReference.cache
+F:\Csharp\02_METODOS\obj\Debug\net7.0\02_METODOS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\02_METODOS\obj\Debug\net7.0\02_METODOS.AssemblyInfoInputs.cache
+F:\Csharp\02_METODOS\obj\Debug\net7.0\02_METODOS.AssemblyInfo.cs
+F:\Csharp\02_METODOS\obj\Debug\net7.0\02_METODOS.csproj.CoreCompileInputs.cache
+F:\Csharp\02_METODOS\bin\Debug\net7.0\02_METODOS.exe
+F:\Csharp\02_METODOS\bin\Debug\net7.0\02_METODOS.deps.json
+F:\Csharp\02_METODOS\bin\Debug\net7.0\02_METODOS.runtimeconfig.json
+F:\Csharp\02_METODOS\bin\Debug\net7.0\02_METODOS.dll
+F:\Csharp\02_METODOS\bin\Debug\net7.0\02_METODOS.pdb
+F:\Csharp\02_METODOS\obj\Debug\net7.0\02_METODOS.dll
+F:\Csharp\02_METODOS\obj\Debug\net7.0\refint\02_METODOS.dll
+F:\Csharp\02_METODOS\obj\Debug\net7.0\02_METODOS.pdb
+F:\Csharp\02_METODOS\obj\Debug\net7.0\02_METODOS.genruntimeconfig.cache
+F:\Csharp\02_METODOS\obj\Debug\net7.0\ref\02_METODOS.dll

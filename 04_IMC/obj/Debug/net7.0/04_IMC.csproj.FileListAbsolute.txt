@@ -1,0 +1,15 @@
+F:\Csharp\04_IMC\obj\Debug\net7.0\04_IMC.csproj.AssemblyReference.cache
+F:\Csharp\04_IMC\obj\Debug\net7.0\04_IMC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\04_IMC\obj\Debug\net7.0\04_IMC.AssemblyInfoInputs.cache
+F:\Csharp\04_IMC\obj\Debug\net7.0\04_IMC.AssemblyInfo.cs
+F:\Csharp\04_IMC\obj\Debug\net7.0\04_IMC.csproj.CoreCompileInputs.cache
+F:\Csharp\04_IMC\bin\Debug\net7.0\04_IMC.exe
+F:\Csharp\04_IMC\bin\Debug\net7.0\04_IMC.deps.json
+F:\Csharp\04_IMC\bin\Debug\net7.0\04_IMC.runtimeconfig.json
+F:\Csharp\04_IMC\bin\Debug\net7.0\04_IMC.dll
+F:\Csharp\04_IMC\bin\Debug\net7.0\04_IMC.pdb
+F:\Csharp\04_IMC\obj\Debug\net7.0\04_IMC.dll
+F:\Csharp\04_IMC\obj\Debug\net7.0\refint\04_IMC.dll
+F:\Csharp\04_IMC\obj\Debug\net7.0\04_IMC.pdb
+F:\Csharp\04_IMC\obj\Debug\net7.0\04_IMC.genruntimeconfig.cache
+F:\Csharp\04_IMC\obj\Debug\net7.0\ref\04_IMC.dll
