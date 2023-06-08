@@ -41,4 +41,12 @@ class Pessoa
 
         Console.WriteLine(resultado);
     }
+
+    public void relatorio()
+    {
+        double imc = calculaImc();
+        string status = relatorio(imc);
+
+        string mensagem = Console.WriteLine($"O status de IMC do peso {peso} e altura {altura} resulta em {imc}, estando no grau de {status}.");
+    }
 }
