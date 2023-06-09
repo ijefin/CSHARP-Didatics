@@ -10,7 +10,7 @@ class Pessoa
         return peso / (altura * altura);
     }
 
-    public void validaImc(double imc)
+    public string validaImc(double imc)
     {
         string resultado;
 
@@ -39,14 +39,14 @@ class Pessoa
             resultado = "OBESIDADE NÍVEL III";
         }
 
-        Console.WriteLine(resultado);
+        return resultado;
     }
 
     public void relatorio()
     {
         double imc = calculaImc();
-        string status = relatorio(imc);
+        string status = validaImc(imc);
 
-        string mensagem = Console.WriteLine($"O status de IMC do peso {peso} e altura {altura} resulta em {imc}, estando no grau de {status}.");
+        Console.WriteLine($"O IMC de peso {peso} e altura {altura} resulta em {Math.Round(imc)}, estando no grau de {status}.");
     }
 }
