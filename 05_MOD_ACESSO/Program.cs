@@ -1,5 +1,5 @@
-﻿Produto computador = new Produto();
+﻿Produto PC = new Produto();
 
-computador.nome = "Gigabyte R7 Eron";
+PC.nome = "Maqueick";
 
-computador.mostraNome();
+PC.mostraDados();

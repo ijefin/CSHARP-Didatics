@@ -1,17 +1,16 @@
 class Produto
 {
-    //Atributos e métodos visiveis em qualquer classe
+    //Pode ter os atributos e métodos acessados por qualquer classe
     public string nome;
 
-    //Atributos e métodos visíveis apenas na classe que foi criada
-    private double valor = 5000;
+    //Pode ter os atributos e métodos acessados apenas pela classe no qual foi definido
+    private double preco = 5000;
 
-    //Atributos e métodos visíveis em classes onde são criados ou herdados
-    protected int data;
+    // Pode ter os atributos e métodos acessados pela classe no qual foi definido e pelas sublcasses.
+    private double desconto = 50.524;
 
-    public void mostraNome()
+    public void mostraDados()
     {
-        Console.WriteLine($"{nome}, valor: {valor}");
+        Console.WriteLine($"{nome}, {preco}, {desconto}");
     }
-
 }
