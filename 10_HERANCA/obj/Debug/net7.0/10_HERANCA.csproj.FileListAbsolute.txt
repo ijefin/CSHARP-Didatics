@@ -1,0 +1,15 @@
+F:\Csharp\10_HERANCA\bin\Debug\net7.0\10_HERANCA.exe
+F:\Csharp\10_HERANCA\bin\Debug\net7.0\10_HERANCA.deps.json
+F:\Csharp\10_HERANCA\bin\Debug\net7.0\10_HERANCA.runtimeconfig.json
+F:\Csharp\10_HERANCA\bin\Debug\net7.0\10_HERANCA.dll
+F:\Csharp\10_HERANCA\bin\Debug\net7.0\10_HERANCA.pdb
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\10_HERANCA.csproj.AssemblyReference.cache
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\10_HERANCA.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\10_HERANCA.AssemblyInfoInputs.cache
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\10_HERANCA.AssemblyInfo.cs
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\10_HERANCA.csproj.CoreCompileInputs.cache
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\10_HERANCA.dll
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\refint\10_HERANCA.dll
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\10_HERANCA.pdb
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\10_HERANCA.genruntimeconfig.cache
+F:\Csharp\10_HERANCA\obj\Debug\net7.0\ref\10_HERANCA.dll
