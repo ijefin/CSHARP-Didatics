@@ -1,0 +1,15 @@
+F:\Csharp\08_GETTERS_&_SETTERS\bin\Debug\net7.0\08_GETTERS_&_SETTERS.exe
+F:\Csharp\08_GETTERS_&_SETTERS\bin\Debug\net7.0\08_GETTERS_&_SETTERS.deps.json
+F:\Csharp\08_GETTERS_&_SETTERS\bin\Debug\net7.0\08_GETTERS_&_SETTERS.runtimeconfig.json
+F:\Csharp\08_GETTERS_&_SETTERS\bin\Debug\net7.0\08_GETTERS_&_SETTERS.dll
+F:\Csharp\08_GETTERS_&_SETTERS\bin\Debug\net7.0\08_GETTERS_&_SETTERS.pdb
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\08_GETTERS_&_SETTERS.csproj.AssemblyReference.cache
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\08_GETTERS_&_SETTERS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\08_GETTERS_&_SETTERS.AssemblyInfoInputs.cache
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\08_GETTERS_&_SETTERS.AssemblyInfo.cs
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\08_GETTERS_&_SETTERS.csproj.CoreCompileInputs.cache
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\08_GETTERS_&_SETTERS.dll
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\refint\08_GETTERS_&_SETTERS.dll
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\08_GETTERS_&_SETTERS.pdb
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\08_GETTERS_&_SETTERS.genruntimeconfig.cache
+F:\Csharp\08_GETTERS_&_SETTERS\obj\Debug\net7.0\ref\08_GETTERS_&_SETTERS.dll
