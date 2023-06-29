@@ -1,0 +1,15 @@
+F:\Csharp\07_CONSTRUTOR\bin\Debug\net7.0\07_CONSTRUTOR.exe
+F:\Csharp\07_CONSTRUTOR\bin\Debug\net7.0\07_CONSTRUTOR.deps.json
+F:\Csharp\07_CONSTRUTOR\bin\Debug\net7.0\07_CONSTRUTOR.runtimeconfig.json
+F:\Csharp\07_CONSTRUTOR\bin\Debug\net7.0\07_CONSTRUTOR.dll
+F:\Csharp\07_CONSTRUTOR\bin\Debug\net7.0\07_CONSTRUTOR.pdb
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\07_CONSTRUTOR.csproj.AssemblyReference.cache
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\07_CONSTRUTOR.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\07_CONSTRUTOR.AssemblyInfoInputs.cache
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\07_CONSTRUTOR.AssemblyInfo.cs
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\07_CONSTRUTOR.csproj.CoreCompileInputs.cache
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\07_CONSTRUTOR.dll
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\refint\07_CONSTRUTOR.dll
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\07_CONSTRUTOR.pdb
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\07_CONSTRUTOR.genruntimeconfig.cache
+F:\Csharp\07_CONSTRUTOR\obj\Debug\net7.0\ref\07_CONSTRUTOR.dll
