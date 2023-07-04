@@ -1,0 +1,15 @@
+F:\Csharp\09_THIS\bin\Debug\net7.0\09_THIS.exe
+F:\Csharp\09_THIS\bin\Debug\net7.0\09_THIS.deps.json
+F:\Csharp\09_THIS\bin\Debug\net7.0\09_THIS.runtimeconfig.json
+F:\Csharp\09_THIS\bin\Debug\net7.0\09_THIS.dll
+F:\Csharp\09_THIS\bin\Debug\net7.0\09_THIS.pdb
+F:\Csharp\09_THIS\obj\Debug\net7.0\09_THIS.csproj.AssemblyReference.cache
+F:\Csharp\09_THIS\obj\Debug\net7.0\09_THIS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\09_THIS\obj\Debug\net7.0\09_THIS.AssemblyInfoInputs.cache
+F:\Csharp\09_THIS\obj\Debug\net7.0\09_THIS.AssemblyInfo.cs
+F:\Csharp\09_THIS\obj\Debug\net7.0\09_THIS.csproj.CoreCompileInputs.cache
+F:\Csharp\09_THIS\obj\Debug\net7.0\09_THIS.dll
+F:\Csharp\09_THIS\obj\Debug\net7.0\refint\09_THIS.dll
+F:\Csharp\09_THIS\obj\Debug\net7.0\09_THIS.pdb
+F:\Csharp\09_THIS\obj\Debug\net7.0\09_THIS.genruntimeconfig.cache
+F:\Csharp\09_THIS\obj\Debug\net7.0\ref\09_THIS.dll
