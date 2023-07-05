@@ -1,0 +1,15 @@
+F:\Csharp\11_POLIMORFISMO\bin\Debug\net7.0\11_POLIMORFISMO.exe
+F:\Csharp\11_POLIMORFISMO\bin\Debug\net7.0\11_POLIMORFISMO.deps.json
+F:\Csharp\11_POLIMORFISMO\bin\Debug\net7.0\11_POLIMORFISMO.runtimeconfig.json
+F:\Csharp\11_POLIMORFISMO\bin\Debug\net7.0\11_POLIMORFISMO.dll
+F:\Csharp\11_POLIMORFISMO\bin\Debug\net7.0\11_POLIMORFISMO.pdb
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\11_POLIMORFISMO.csproj.AssemblyReference.cache
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\11_POLIMORFISMO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\11_POLIMORFISMO.AssemblyInfoInputs.cache
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\11_POLIMORFISMO.AssemblyInfo.cs
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\11_POLIMORFISMO.csproj.CoreCompileInputs.cache
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\11_POLIMORFISMO.dll
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\refint\11_POLIMORFISMO.dll
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\11_POLIMORFISMO.pdb
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\11_POLIMORFISMO.genruntimeconfig.cache
+F:\Csharp\11_POLIMORFISMO\obj\Debug\net7.0\ref\11_POLIMORFISMO.dll
