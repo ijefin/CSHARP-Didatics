@@ -1,0 +1,15 @@
+F:\Csharp\12_STATIC_METHODS\bin\Debug\net7.0\12_STATIC_METHODS.exe
+F:\Csharp\12_STATIC_METHODS\bin\Debug\net7.0\12_STATIC_METHODS.deps.json
+F:\Csharp\12_STATIC_METHODS\bin\Debug\net7.0\12_STATIC_METHODS.runtimeconfig.json
+F:\Csharp\12_STATIC_METHODS\bin\Debug\net7.0\12_STATIC_METHODS.dll
+F:\Csharp\12_STATIC_METHODS\bin\Debug\net7.0\12_STATIC_METHODS.pdb
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\12_STATIC_METHODS.csproj.AssemblyReference.cache
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\12_STATIC_METHODS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\12_STATIC_METHODS.AssemblyInfoInputs.cache
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\12_STATIC_METHODS.AssemblyInfo.cs
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\12_STATIC_METHODS.csproj.CoreCompileInputs.cache
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\12_STATIC_METHODS.dll
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\refint\12_STATIC_METHODS.dll
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\12_STATIC_METHODS.pdb
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\12_STATIC_METHODS.genruntimeconfig.cache
+F:\Csharp\12_STATIC_METHODS\obj\Debug\net7.0\ref\12_STATIC_METHODS.dll
