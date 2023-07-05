@@ -1,0 +1,15 @@
+F:\Csharp\14_INTERFACE\bin\Debug\net7.0\14_INTERFACE.exe
+F:\Csharp\14_INTERFACE\bin\Debug\net7.0\14_INTERFACE.deps.json
+F:\Csharp\14_INTERFACE\bin\Debug\net7.0\14_INTERFACE.runtimeconfig.json
+F:\Csharp\14_INTERFACE\bin\Debug\net7.0\14_INTERFACE.dll
+F:\Csharp\14_INTERFACE\bin\Debug\net7.0\14_INTERFACE.pdb
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\14_INTERFACE.csproj.AssemblyReference.cache
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\14_INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\14_INTERFACE.AssemblyInfoInputs.cache
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\14_INTERFACE.AssemblyInfo.cs
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\14_INTERFACE.csproj.CoreCompileInputs.cache
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\14_INTERFACE.dll
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\refint\14_INTERFACE.dll
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\14_INTERFACE.pdb
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\14_INTERFACE.genruntimeconfig.cache
+F:\Csharp\14_INTERFACE\obj\Debug\net7.0\ref\14_INTERFACE.dll
