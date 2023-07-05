@@ -1,0 +1,15 @@
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\13_ABSTRACAO.csproj.AssemblyReference.cache
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\13_ABSTRACAO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\13_ABSTRACAO.AssemblyInfoInputs.cache
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\13_ABSTRACAO.AssemblyInfo.cs
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\13_ABSTRACAO.csproj.CoreCompileInputs.cache
+F:\Csharp\13_ABSTRACAO\bin\Debug\net7.0\13_ABSTRACAO.exe
+F:\Csharp\13_ABSTRACAO\bin\Debug\net7.0\13_ABSTRACAO.deps.json
+F:\Csharp\13_ABSTRACAO\bin\Debug\net7.0\13_ABSTRACAO.runtimeconfig.json
+F:\Csharp\13_ABSTRACAO\bin\Debug\net7.0\13_ABSTRACAO.dll
+F:\Csharp\13_ABSTRACAO\bin\Debug\net7.0\13_ABSTRACAO.pdb
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\13_ABSTRACAO.dll
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\refint\13_ABSTRACAO.dll
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\13_ABSTRACAO.pdb
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\13_ABSTRACAO.genruntimeconfig.cache
+F:\Csharp\13_ABSTRACAO\obj\Debug\net7.0\ref\13_ABSTRACAO.dll
